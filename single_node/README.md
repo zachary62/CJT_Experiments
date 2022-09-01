@@ -1,4 +1,4 @@
-## Custom query engine
+## Custom query engine 
 
 We implement a custom query engine in C++ for CJT.
 
